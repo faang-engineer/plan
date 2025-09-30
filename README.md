@@ -35,7 +35,8 @@ My first version leaned heavily on LeetCode patterns. It didn’t stick. Switchi
 18. **[Theory]** *The Software Developer’s Career Handbook* — O’Reilly  
 19. **[Theory]** *Software Engineering at Google*  
 20. **[Theory]** *The Staff Engineer’s Path* — Tanya Reilly  
-21. **[Theory]** *The Art of Leadership* — O’Reilly  
+21. **[Theory]** *The Art of Leadership* — O’Reilly
+22. **[Theory]** [Behavioral Interview Playbook](https://www.greatfrontend.com/behavioral-interview-playbook)
 
 ---
 
@@ -44,7 +45,7 @@ My first version leaned heavily on LeetCode patterns. It didn’t stick. Switchi
 | #  | Area       | Resource                                           | Status         | Date       | Notes |
 |----|------------|----------------------------------------------------|----------------|------------|-------|
 | 1  | [Theory]   | Front-End Interview Playbook (GFE)                 | ✅ Done | 9 Aug 2025| Covers key FE interview topics |
-| 2  | [Practice] | DSA — GFE                                          | [ ] Not started| —          | Focus on basics first |
+| 2  | [Practice] | DSA — GFE                                          | [ ] 14/22 In the progress|  | Focus on basics first |
 | 3  | [Practice] | JavaScript Polyfills (GFE)                         | [ ] Not started| —          | Re-implement JS methods |
 | 4  | [Practice] | Lodash Functions (GFE)                             | [ ] Not started| —          | Practice lodash vs plain JS |
 | 5  | [Practice] | Async Operations (GFE)                             | [ ] Not started| —          | Event loop, promises, async/await |
@@ -64,6 +65,7 @@ My first version leaned heavily on LeetCode patterns. It didn’t stick. Switchi
 | 19 | [Theory]   | Software Engineering at Google                     | [ ] Not started| —          | Skim relevant chapters |
 | 20 | [Theory]   | The Staff Engineer’s Path                          | [ ] Not started| —          | Leadership prep |
 | 21 | [Theory]   | The Art of Leadership                              | [ ] Not started| —          | Read in parallel with behavioral prep. |
+| 22 | [Theory]   | Behavioral Interview Playbook                      | [ ] Not started| —          | Read in parallel with coding tasks |
 
 
 ### Behavioral Prep
