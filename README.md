@@ -114,6 +114,7 @@ My first version leaned heavily on LeetCode patterns. It didn’t stick. Switchi
 ## 🔗 Useful Links
 
 - [Check salaries by company — Levels.fyi](https://www.levels.fyi/)
+- [Use structured interviewing - Google](https://rework.withgoogle.com/intl/en/guides/hiring-use-structured-interviewing)
 - [Ten Rules for Negotiating a Job Offer — Haseeb Qureshi](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 - [Salary Negotiation — Kalzumeus](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 - [Amazon Leadership Principles — LeetCode](https://leetcode.com/discuss/post/2183771/amazon-leadership-principles-by-gyanar-ij2l/)
