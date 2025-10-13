@@ -45,7 +45,7 @@ My first version leaned heavily on LeetCode patterns. It didn’t stick. Switchi
 | #  | Area       | Resource                                           | Status         | Date       | Notes |
 |----|------------|----------------------------------------------------|----------------|------------|-------|
 | 1  | [Theory]   | Front-End Interview Playbook (GFE)                 | ✅ Done | 9 Aug 2025| Covers key FE interview topics |
-| 2  | [Practice] | DSA — GFE                                          | [ ] 14/22 In the progress|  | Focus on basics first |
+| 2  | [Practice] | DSA — GFE                                          | ✅ Done | 10 Sep 2025 | Focus on basics first |
 | 3  | [Practice] | JavaScript Polyfills (GFE)                         | [ ] Not started| —          | Re-implement JS methods |
 | 4  | [Practice] | Lodash Functions (GFE)                             | [ ] Not started| —          | Practice lodash vs plain JS |
 | 5  | [Practice] | Async Operations (GFE)                             | [ ] Not started| —          | Event loop, promises, async/await |
