@@ -18,25 +18,23 @@ My first version leaned heavily on LeetCode patterns. It didn’t stick. Switchi
 1. **[Theory]** [Front-End Interview Playbook — GFE](https://www.greatfrontend.com/front-end-interview-playbook)  
 2. **[Practice]** [Data Structures & Algorithms — GFE](https://www.greatfrontend.com/interviews/focus-areas/data-structures-algorithms)  
 3. **[Practice]** [JavaScript Polyfills — GFE](https://www.greatfrontend.com/interviews/focus-areas/javascript-polyfills)  
-4. **[Practice]** [Lodash Functions — GFE](https://www.greatfrontend.com/interviews/focus-areas/lodash)  
-5. **[Practice]** [Async Operations — GFE](https://www.greatfrontend.com/interviews/focus-areas/async-operations)  
-6. **[Practice]** [DOM Manipulation — GFE](https://www.greatfrontend.com/interviews/focus-areas/dom-manipulation)  
-7. **[Practice]** [Forms — GFE](https://www.greatfrontend.com/interviews/focus-areas/forms)  
-8. **[Practice]** [Design System Components — GFE](https://www.greatfrontend.com/interviews/focus-areas/design-system-components)  
-9. **[Practice]** [Data Structures & Algorithms — HelloInterview](https://www.hellointerview.com/learn/code)  
-10. **[Theory]** [Front-End System Design Playbook — GFE](https://www.greatfrontend.com/front-end-system-design-playbook)  
-11. **[Theory]** [System Design in a Hurry — HelloInterview](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)  
-12. **[Theory]** [Grokking the Modern System Design Interview — Educative](https://www.educative.io/courses/grokking-the-system-design-interview/getting-ready-for-the-system-design-interview)  
-13. **[Theory]** [High Performance Browser Networking](https://hpbn.co/)  
-14. **[Practice]** [GFE 75 - System design only](https://www.greatfrontend.com/interviews/gfe75)    
-15. **[Practice]** [Blind 75 — GFE](https://www.greatfrontend.com/interviews/blind75)  
-16. **[Practice]** [JavaScript Interview Questions — GFE](https://www.greatfrontend.com/questions/javascript-interview-questions)  
-17. **[Theory]** [Coding Patterns repo (repeat everything)](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews)  
-18. **[Theory]** *The Software Developer’s Career Handbook* — O’Reilly  
-19. **[Theory]** *Software Engineering at Google*  
-20. **[Theory]** *The Staff Engineer’s Path* — Tanya Reilly  
-21. **[Theory]** *The Art of Leadership* — O’Reilly
-22. **[Theory]** [Behavioral Interview Playbook](https://www.greatfrontend.com/behavioral-interview-playbook)
+4. **[Practice]** [Async Operations — GFE](https://www.greatfrontend.com/interviews/focus-areas/async-operations)  
+5. **[Practice]** [Forms — GFE](https://www.greatfrontend.com/interviews/focus-areas/forms)  
+6. **[Practice]** [Design System Components — GFE](https://www.greatfrontend.com/interviews/focus-areas/design-system-components)  
+7. **[Practice]** [Data Structures & Algorithms — HelloInterview](https://www.hellointerview.com/learn/code)  
+8. **[Theory]** [Front-End System Design Playbook — GFE](https://www.greatfrontend.com/front-end-system-design-playbook)  
+9. **[Theory]** [System Design in a Hurry — HelloInterview](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)  
+10. **[Theory]** [Grokking the Modern System Design Interview — Educative](https://www.educative.io/courses/grokking-the-system-design-interview/getting-ready-for-the-system-design-interview)  
+11. **[Theory]** [High Performance Browser Networking](https://hpbn.co/)  
+12. **[Practice]** [GFE 75 - System design only](https://www.greatfrontend.com/interviews/gfe75)    
+13. **[Practice]** [Blind 75 — GFE](https://www.greatfrontend.com/interviews/blind75)  
+14. **[Practice]** [JavaScript Interview Questions — GFE](https://www.greatfrontend.com/questions/javascript-interview-questions)  
+15. **[Theory]** [Coding Patterns repo (repeat everything)](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews)  
+16. **[Theory]** *The Software Developer’s Career Handbook* — O’Reilly  
+17. **[Theory]** *Software Engineering at Google*  
+18. **[Theory]** *The Staff Engineer’s Path* — Tanya Reilly  
+19. **[Theory]** *The Art of Leadership* — O’Reilly
+20. **[Theory]** [Behavioral Interview Playbook](https://www.greatfrontend.com/behavioral-interview-playbook)
 
 ---
 
@@ -47,25 +45,23 @@ My first version leaned heavily on LeetCode patterns. It didn’t stick. Switchi
 | 1  | [Theory]   | Front-End Interview Playbook (GFE)                 | ✅ Done | 9 Aug 2025| Covers key FE interview topics |
 | 2  | [Practice] | DSA — GFE                                          | ✅ Done | 10 Sep 2025 | Focus on basics first |
 | 3  | [Practice] | JavaScript Polyfills (GFE)                         | ✅ Done | 27 Oct 2025         | Re-implement JS methods |
-| 4  | [Practice] | Lodash Functions (GFE)                             | [ ] Not started| —          | Practice lodash vs plain JS |
-| 5  | [Practice] | Async Operations (GFE)                             | [ ] Not started| —          | Event loop, promises, async/await |
-| 6  | [Practice] | DOM Manipulation (GFE)                             | [ ] Not started| —          | Direct hands-on coding |
-| 7  | [Practice] | Forms (GFE)                                        | [ ] Not started| —          | HTML+JS integration |
-| 8  | [Practice] | Design System Components (GFE)                     | [ ] Not started| —          | Reusable UI components |
-| 9  | [Practice] | DSA — HelloInterview                               | [ ] Not started| —          | Extra practice set |
-| 10 | [Theory]   | Front-End System Design Playbook (GFE)             | ✅ Done     | 8 Aug 2025 | Structure FE SD answers |
-| 11 | [Theory]   | System Design in a Hurry (HelloInterview)          | [ ] Not started| —          | Quick refresher |
-| 12 | [Theory]   | Grokking Modern SDI (Educative)                    | [ ] Not started| —          | Skim frontend-related cases |
-| 13 | [Theory]   | High Performance Browser Networking                | [ ] Not started| —          | Focus on HTTP/2, caching |
-| 14 | [Practice] | GFE 75 (focus on System design)                    | [ ] 0 / 8 Not started| —    | Solve only System design tasks |
-| 15 | [Practice] | Blind 75 (GFE)                                     | [ ] Not started| —          | Core algorithm set |
-| 16 | [Practice] | JS Interview Questions (GFE)                       | [ ] Not started| —          | Drill 10/day; note weak spots. |
-| 17 | [Theory]   | Coding Patterns repo                               | [ ] Not started| —          | Repeat patterns regularly |
-| 18 | [Theory]   | The Software Developer’s Career Handbook           | [ ] Not started| —          | Read 10–15 pages/day; focus on interview mindset. |
-| 19 | [Theory]   | Software Engineering at Google                     | [ ] Not started| —          | Skim relevant chapters |
-| 20 | [Theory]   | The Staff Engineer’s Path                          | [ ] Not started| —          | Leadership prep |
-| 21 | [Theory]   | The Art of Leadership                              | [ ] Not started| —          | Read in parallel with behavioral prep. |
-| 22 | [Theory]   | Behavioral Interview Playbook                      | [ ] Not started| —          | Read in parallel with coding tasks |
+| 4  | [Practice] | Async Operations (GFE)                             | [ ] Not started| —          | Event loop, promises, async/await |
+| 5  | [Practice] | Forms (GFE)                                        | [ ] Not started| —          | Hard tasks only |
+| 6  | [Practice] | Design System Components (GFE)                     | [ ] Not started| —          | Reusable UI components |
+| 7  | [Practice] | DSA — HelloInterview                               | [ ] Not started| —          | Extra practice set |
+| 8 | [Theory]   | Front-End System Design Playbook (GFE)             | ✅ Done     | 8 Aug 2025 | Structure FE SD answers |
+| 9 | [Theory]   | System Design in a Hurry (HelloInterview)          | [ ] Not started| —          | Quick refresher |
+| 10 | [Theory]   | Grokking Modern SDI (Educative)                    | [ ] Not started| —          | Skim frontend-related cases |
+| 11 | [Theory]   | High Performance Browser Networking                | [ ] Not started| —          | Focus on HTTP/2, caching |
+| 12 | [Practice] | GFE 75 (focus on System design)                    | [ ] 0 / 8 Not started| —    | Solve only System design tasks |
+| 13 | [Practice] | Blind 75 (GFE)                                     | [ ] Not started| —          | Core algorithm set |
+| 14 | [Practice] | JS Interview Questions (GFE)                       | [ ] Not started| —          | Drill 10/day; note weak spots. |
+| 15 | [Theory]   | Coding Patterns repo                               | [ ] Not started| —          | Repeat patterns regularly |
+| 16 | [Theory]   | The Software Developer’s Career Handbook           | [ ] Not started| —          | Read 10–15 pages/day; focus on interview mindset. |
+| 17 | [Theory]   | Software Engineering at Google                     | [ ] Not started| —          | Skim relevant chapters |
+| 18 | [Theory]   | The Staff Engineer’s Path                          | [ ] Not started| —          | Leadership prep |
+| 19 | [Theory]   | The Art of Leadership                              | [ ] Not started| —          | Read in parallel with behavioral prep. |
+| 20 | [Theory]   | Behavioral Interview Playbook                      | [ ] Not started| —          | Read in parallel with coding tasks |
 
 
 ### Behavioral Prep
