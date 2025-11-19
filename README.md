@@ -45,8 +45,8 @@ My first version leaned heavily on LeetCode patterns. It didn’t stick. Switchi
 | 1  | [Theory]   | Front-End Interview Playbook (GFE)        | ✅ Done          | 9 Aug 2025  | Covers key FE interview topics        |
 | 2  | [Practice] | Data Structures & Algorithms (GFE)        | ✅ Done          | 10 Sep 2025 | Focus on basics first                 |
 | 3  | [Practice] | JavaScript Polyfills (GFE)                | ✅ Done          | 27 Oct 2025 | Re-implement JS methods               |
-| 4  | [Practice] | Async Operations (GFE)                    | 11/33 | —           | Event loop, promises, async/await     |
-| 5  | [Practice] | Forms (GFE)                               | [ ] Not started | —           | Hard tasks only                       |
+| 4  | [Practice] | Async Operations (GFE)                    | ✅ Done          | 27 Oct 2025           | Event loop, promises, async/await     |
+| 5  | [Practice] | Forms (GFE)                               | In the progress | 17 Nov 2025           | Hard tasks only                       |
 | 6  | [Theory]   | Front-End System Design Playbook (GFE)    | ✅ Done          | 8 Aug 2025  | Structure FE SD answers               |
 | 7  | [Practice] | Design System Components (GFE)            | [ ] Not started | —           | Reusable UI components                |
 | 8  | [Practice] | Learn DSA Through Visualizations            | [ ] Not started | —           | Algo                |
