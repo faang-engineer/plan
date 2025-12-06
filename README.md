@@ -46,10 +46,10 @@ My first version leaned heavily on LeetCode patterns. It didn’t stick. Switchi
 | 2  | [Practice] | Data Structures & Algorithms (GFE)        | ✅ Done          | 10 Sep 2025 | Focus on basics first                 |
 | 3  | [Practice] | JavaScript Polyfills (GFE)                | ✅ Done          | 27 Oct 2025 | Re-implement JS methods               |
 | 4  | [Practice] | Async Operations (GFE)                    | ✅ Done          | 17 Nov 2025           | Event loop, promises, async/await     |
-| 5  | [Practice] | Forms (GFE)                               | In the progress | -           | Hard tasks only                       |
+| 5  | [Practice] | Forms (GFE)                               | ✅ Done | 22 Nov 2025            | Hard tasks only                       |
 | 6  | [Theory]   | Front-End System Design Playbook (GFE)    | ✅ Done          | 8 Aug 2025  | Structure FE SD answers               |
-| 7  | [Practice] | Design System Components (GFE)            | [ ] Not started | —           | Reusable UI components                |
-| 8  | [Practice] | Learn DSA Through Visualizations            | [ ] Not started | —           | Algo                |
+| 7  | [Practice] | Design System Components (GFE)            | ✅ Done | 06 Dec 2025            | Reusable UI components                |
+| 8  | [Practice] | Learn DSA Through Visualizations            |  In the progress | —           | Algo                |
 | 9  | [Theory]   | System Design in a Hurry (HelloInterview) | [ ] Not started | —           | Quick refresher                       |
 | 10  | [Theory]   | Grokking Modern SDI (Educative)           | [ ] Not started | —           | Skim frontend-related cases           |
 | 11 | [Theory]   | High Performance Browser Networking       | [ ] Not started | —           | Focus on HTTP/2, caching              |
