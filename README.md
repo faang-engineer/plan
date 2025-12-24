@@ -61,7 +61,7 @@ My first version leaned heavily on LeetCode patterns. It didn’t stick. Switchi
 | 17 | [Theory]   | Software Engineering at Google            | [ ] Not started | —           | Skim relevant chapters                |
 | 18 | [Theory]   | The Staff Engineer’s Path                 | [ ] Not started | —           | Leadership prep                       |
 | 19 | [Theory]   | The Art of Leadership                     | [ ] Not started | —           | Read in parallel with behavioral prep |
-| 20 | [Theory]   | Behavioral Interview Playbook (GFE)       | [ ] Not started | —           | Read in parallel with coding tasks    |
+| 20 | [Theory]   | Behavioral Interview Playbook (GFE)       | Done | 24 Dec 2025          | Good to understand what questions to expect during the interview    |
 
 ---
 
