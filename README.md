@@ -49,8 +49,8 @@ My first version leaned heavily on LeetCode patterns. It didn’t stick. Switchi
 | 5  | [Practice] | Forms (GFE)                               | ✅ Done | 22 Nov 2025            | Hard tasks only                       |
 | 6  | [Theory]   | Front-End System Design Playbook (GFE)    | ✅ Done          | 8 Aug 2025  | Structure FE SD answers               |
 | 7  | [Practice] | Design System Components (GFE)            | ✅ Done | 06 Dec 2025            | Reusable UI components                |
-| 8  | [Practice] | Learn DSA Through Visualizations            |  In the progress | —           | Algo                |
-| 9  | [Theory]   | System Design in a Hurry (HelloInterview) | [ ] Not started | —           | Quick refresher                       |
+| 8  | [Practice] | Learn DSA Through Visualizations            |  ✅ Done | 21 Mar 2026           | Algo                |
+| 9  | [Theory]   | System Design in a Hurry (HelloInterview) | [] in the progress| —           | Quick refresher                       |
 | 10  | [Theory]   | Grokking Modern SDI (Educative)           | [ ] Not started | —           | Skim frontend-related cases           |
 | 11 | [Theory]   | High Performance Browser Networking       | [ ] Not started | —           | Focus on HTTP/2, caching              |
 | 12 | [Practice] | GFE 75 (System Design Only)               | [ ] Not started | —           | Solve only system design tasks        |
@@ -61,7 +61,7 @@ My first version leaned heavily on LeetCode patterns. It didn’t stick. Switchi
 | 17 | [Theory]   | Software Engineering at Google            | [ ] Not started | —           | Skim relevant chapters                |
 | 18 | [Theory]   | The Staff Engineer’s Path                 | [ ] Not started | —           | Leadership prep                       |
 | 19 | [Theory]   | The Art of Leadership                     | [ ] Not started | —           | Read in parallel with behavioral prep |
-| 20 | [Theory]   | Behavioral Interview Playbook (GFE)       | Done | 24 Dec 2025          | Good to understand what questions to expect during the interview    |
+| 20 | [Theory]   | Behavioral Interview Playbook (GFE)       | ✅ Done | 24 Dec 2025          | Good to understand what questions to expect during the interview    |
 
 ---
 
